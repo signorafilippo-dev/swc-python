@@ -1,0 +1,5 @@
+.venv
+venv
+*.csv
+!Python_Day2/data/*.csv
+.ipynb_checkpoints
